@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-dvkhre.kujang138bos.online/sitemap.xml
